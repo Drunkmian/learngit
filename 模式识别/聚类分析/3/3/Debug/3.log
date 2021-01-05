@@ -1,0 +1,18 @@
+﻿生成启动时间为 2020/12/26 21:37:03。
+     1>项目“G:\好好学习\大三上\模式识别\聚类分析\3\3\3.vcxproj”在节点 2 上(build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output 目录未以斜杠结尾。此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+     1>InitializeBuildStatus:
+         正在对“Debug\3.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         g:\VS2010（64&32bit）\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 3.cpp
+         3.cpp
+     1>g:\好好学习\大三上\模式识别\聚类分析\3\3\3.cpp(33): error C2668: “sqrt”: 对重载函数的调用不明确
+                 g:\vs2010（64&32bit）\vc\include\math.h(589): 可能是“long double sqrt(long double)”
+                 g:\vs2010（64&32bit）\vc\include\math.h(541): 或       “float sqrt(float)”
+                 g:\vs2010（64&32bit）\vc\include\math.h(127): 或       “double sqrt(double)”
+                 尝试匹配参数列表“(int)”时
+     1>已完成生成项目“G:\好好学习\大三上\模式识别\聚类分析\3\3\3.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.52
